@@ -37,14 +37,17 @@ The dataset simulates real-world customer behavior to analyze factors affecting 
 1. Data Inspection
    - Used .head(), .info(), .describe()
    - Identified missing values in multiple columns
+     
 2️. Missing Values Handling
    - Numerical: Median Imputation
    - Categorical: Mode Imputation
    Result: Clean dataset with no missing values
+
 3️. Outlier Handling
   - Method: IQR (Interquartile Range)
   - Technique: Median Replacement
 Preserves data distribution while removing extreme effects
+
 4️. Feature Scaling
   - Method: Z-score Standardization
     Ensures all features are on the same scale
@@ -60,6 +63,7 @@ Preserves data distribution while removing extreme effects
 - Correlation Analysis
   - Heatmap of feature relationships
   - Focus on correlation with churn
+    
 ## Key Insights
 - Most Predictive Features
   - Tenure → Strong negative correlation
