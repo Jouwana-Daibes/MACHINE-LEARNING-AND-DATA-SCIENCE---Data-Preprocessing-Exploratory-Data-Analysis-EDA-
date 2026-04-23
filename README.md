@@ -34,6 +34,7 @@ The dataset simulates real-world customer behavior to analyze factors affecting 
   - Gender
   - ProductType
 ## Workflow  
+
 1. Data Inspection
    - Used .head(), .info(), .describe()
    - Identified missing values in multiple columns
