@@ -77,8 +77,8 @@ Preserves data distribution while removing extreme effects
 ### 4️. Feature Scaling
 - **Method:** Z-score Standardization  
 
-📌 Ensures all features are on the same scale  
-📌 Improves model performance  
+Ensures all features are on the same scale  
+Improves model performance  
 
 ---
 
